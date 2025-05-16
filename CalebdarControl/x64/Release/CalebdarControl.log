@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CalebdarControl.cpp
+  CustomCalendar.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CalebdarControl.vcxproj -> D:\Study\Informatics\Творческая работа\Florist_ARM\x64\Release\CalebdarControl.dll

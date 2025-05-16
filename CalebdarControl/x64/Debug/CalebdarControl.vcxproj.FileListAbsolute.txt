@@ -1,0 +1,8 @@
+C:\Users\Иван\Desktop\Творческая работа\CalebdarControl\x64\Debug\CalebdarControl.vcxproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\Творческая работа\CalebdarControl\x64\Debug\CalebdarControl.CustomCalendar.resources
+C:\Users\Иван\Desktop\Творческая работа\CalebdarControl\x64\Debug\CalebdarControl.vcxproj.GenerateResource.cache
+C:\Users\Иван\Desktop\Творческая работа\CalebdarControl\x64\Debug\Calebdar.7482B12C.Up2Date
+D:\Study\Informatics\Творческая работа\CalebdarControl\x64\Debug\CalebdarControl.vcxproj.AssemblyReference.cache
+D:\Study\Informatics\Творческая работа\CalebdarControl\x64\Debug\CalebdarControl.CustomCalendar.resources
+D:\Study\Informatics\Творческая работа\CalebdarControl\x64\Debug\CalebdarControl.vcxproj.GenerateResource.cache
+D:\Study\Informatics\Творческая работа\CalebdarControl\x64\Debug\Calebdar.7482B12C.Up2Date

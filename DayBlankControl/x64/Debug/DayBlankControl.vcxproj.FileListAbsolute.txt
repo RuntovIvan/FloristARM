@@ -1,0 +1,6 @@
+C:\Users\Иван\Desktop\Творческая работа\DayBlankControl\x64\Debug\DayBlankControl.vcxproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\Творческая работа\DayBlankControl\x64\Debug\DayBlankControl.DayBlank.resources
+C:\Users\Иван\Desktop\Творческая работа\DayBlankControl\x64\Debug\DayBlankControl.vcxproj.GenerateResource.cache
+D:\Study\Informatics\Творческая работа\DayBlankControl\x64\Debug\DayBlankControl.vcxproj.AssemblyReference.cache
+D:\Study\Informatics\Творческая работа\DayBlankControl\x64\Debug\DayBlankControl.DayBlank.resources
+D:\Study\Informatics\Творческая работа\DayBlankControl\x64\Debug\DayBlankControl.vcxproj.GenerateResource.cache

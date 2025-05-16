@@ -1,0 +1,10 @@
+D:\Study\Informatics\Творческая работа\Florist_ARM\x64\Release\CalebdarControl.pdb
+D:\Study\Informatics\Творческая работа\Florist_ARM\x64\Release\DayBlankControl.pdb
+D:\Study\Informatics\Творческая работа\Florist_ARM\Florist_ARM\x64\Release\Florist_ARM.vcxproj.AssemblyReference.cache
+D:\Study\Informatics\Творческая работа\Florist_ARM\Florist_ARM\x64\Release\FloristARM.DisposeForm.resources
+D:\Study\Informatics\Творческая работа\Florist_ARM\Florist_ARM\x64\Release\FloristARM.MainForm.resources
+D:\Study\Informatics\Творческая работа\Florist_ARM\Florist_ARM\x64\Release\FloristARM.OrderForm.resources
+D:\Study\Informatics\Творческая работа\Florist_ARM\Florist_ARM\x64\Release\FloristARM.ReportForm.resources
+D:\Study\Informatics\Творческая работа\Florist_ARM\Florist_ARM\x64\Release\FloristARM.SellForm.resources
+D:\Study\Informatics\Творческая работа\Florist_ARM\Florist_ARM\x64\Release\Florist_ARM.vcxproj.GenerateResource.cache
+D:\Study\Informatics\Творческая работа\Florist_ARM\Florist_ARM\x64\Release\Florist_.52C8FAE5.Up2Date

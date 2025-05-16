@@ -1,0 +1,4 @@
+D:\Study\Informatics\Творческая работа\CalebdarControl\x64\Release\CalebdarControl.vcxproj.AssemblyReference.cache
+D:\Study\Informatics\Творческая работа\CalebdarControl\x64\Release\CalebdarControl.CustomCalendar.resources
+D:\Study\Informatics\Творческая работа\CalebdarControl\x64\Release\CalebdarControl.vcxproj.GenerateResource.cache
+D:\Study\Informatics\Творческая работа\CalebdarControl\x64\Release\Calebdar.7482B12C.Up2Date
